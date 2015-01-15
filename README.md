@@ -1,4 +1,2 @@
-# 2byte-rogue
+# Unicorogue
 The original rogue game in multibyte characters
-
-unko-unko-
